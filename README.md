@@ -25,9 +25,9 @@ Tonya-Marie Howe1, John F. O'Brien2 and Christine Ruotolo2, (1)George Mason U, (
 
 ![Cover Slide](./mla_2024_promoting_ai_dh_cover_slide.png)
 
-* [Promoting AI DH Projects in *.ppt](./MLA_Promoting_AI_DH_Projects_20230104.pdf.pptx)
+* [Promoting AI DH Projects in *.ppt](./MLA_Promoting_AI_DH_Projects_20230104.pptx)
 
-* [Promoting AI DH Projects in *.pdf](./MLA_Promoting_AI_DH_Projects_20230104.pdf.pdf)
+* [Promoting AI DH Projects in *.pdf](./MLA_Promoting_AI_DH_Projects_20230104.pdf)
 
 * [Promoting AI DH Projects in *.pdf with links](./MLA_Promoting_AI_DH_Projects_20230104_with_notes.pdf)
 
