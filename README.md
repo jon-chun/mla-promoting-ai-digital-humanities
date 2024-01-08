@@ -45,7 +45,9 @@ This presentation highlights a proven approach to visually communicate AI digita
 
 I will share best practices for how we have gained visibility of student AI digital humanities projects at a small liberal arts college. Since founding the world’s first human-centered AI curriculum in 2016, https://digital.kenyon.edu/dh has had over 40k downloads from 160 countries worldwide. We learned traditional essays and even beautifully crafted websites rarely reach their intended audience. Instead, we’ve developed a distinct research poster format derived from scientific disciplines. Based upon our analytics, I will share the narrative and design elements that have yielded the highest visibility.
 
+### Analytics
 
+![Analytics Slide](./mla_2024_promoting_ai_dh_analytics.png)
 
 
 
